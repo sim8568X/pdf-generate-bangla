@@ -195,8 +195,6 @@ return [
         // App\Providers\BroadcastServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
-        \Touhidurabir\StubGenerator\StubGeneratorServiceProvider::class,
-        \Xenon\LaravelBDSms\LaravelBDSmsServiceProvider::class,
 
     ],
 
